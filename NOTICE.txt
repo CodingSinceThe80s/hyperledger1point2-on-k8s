@@ -1,0 +1,14 @@
+==============================================================
+
+ hyperledger1point2-on-k8s: A collection of helpful
+
+ Copyright 2019 and onwards Razvan Hrestic
+ ==============================================================
+
+
+
+This product includes software developed by the author. It also includes software from other open source projects including:
+It also includes software from other open source projects including:
+ * Webinar "A Hitchhiker's guide to deploying Hyperledger Fabric on Kubernetes" [https://github.com/aidtechnology/lf-k8s-hlf-webinar/]
+ 
+ADDITIONAL THIRD PARTY NOTICES:
